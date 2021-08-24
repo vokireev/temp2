@@ -1,0 +1,5 @@
+# Byte-compilied
+__pycache__/
+
+# Idea files
+.idea/
